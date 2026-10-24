@@ -1,0 +1,22 @@
+{
+  "name": "aws-ai-availability-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for aws-ai-availability: inspect the bundled model and region availability snapshot.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "aws-ai-availability": "0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/aws-ai-availability.git"
+  },
+  "homepage": "https://www.npmjs.com/package/aws-ai-availability"
+}

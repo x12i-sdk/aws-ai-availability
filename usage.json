@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "aws-ai-availability",
+  "packageVersion": "0.3.0",
+  "npmUrl": "https://www.npmjs.com/package/aws-ai-availability",
+  "usageRepository": "https://github.com/x12i-sdk/aws-ai-availability",
+  "sourceRepository": "https://github.com/x12i/ai-profiles",
+  "sourceCommit": "8efd4dc11dfaacab2ceef9f030a4a3fa7da00800",
+  "sourcePackageDirectory": "packages/aws-ai-availability",
+  "example": {
+    "title": "Inspect the bundled model and region availability snapshot",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:33:15.317498+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "9b10518d383561c7d3df1c689cce0eb01a1a66692e55bad64363882c695786d9",
+    "manifestSha256": "3a65fa6de953b194dc34c8bc9a096d8d7d91ae50711fb69c7aec77b324f8dc6a"
+  }
+}
