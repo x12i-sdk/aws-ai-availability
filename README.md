@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Offline, JSON-backed lookup of AWS AI service and foundation-model regional availability (Bedrock access modes included). Unofficial / community-maintained — not an AWS product.
-- An application needs the versioned aws-ai-availability definitions or bundled content instead of maintaining its own copy.
+- Check which recorded AWS regions and access modes include a foundation model.
+- Populate a regional model selector from the bundled snapshot, then verify current service availability before deployment.
 
 ## Links
 
